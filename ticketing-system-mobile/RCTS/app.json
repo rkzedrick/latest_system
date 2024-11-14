@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "RCTS",
+    "slug": "RCTS",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c8715398-a35a-41b9-91da-80c894b5f125"
+      }
+    },
+    "owner": "rcts"
+  }
+}
